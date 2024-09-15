@@ -1,7 +1,12 @@
 {
+<<<<<<< HEAD
   "name": "3.5-joke-maker-project",
   "version": "1.0.0",
   "description": "",
+=======
+  "name": "secrets",
+  "version": "1.0.0",
+>>>>>>> middleware
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -10,9 +15,16 @@
   "keywords": [],
   "author": "Austin Musuya",
   "license": "ISC",
+<<<<<<< HEAD
   "dependencies": {
     "body-parser": "^1.20.2",
     "express": "^4.18.2",
+=======
+  "description": "working with middlewares",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.0",
+>>>>>>> middleware
     "morgan": "^1.10.0"
   }
 }
